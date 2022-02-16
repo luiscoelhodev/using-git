@@ -1,0 +1,1 @@
+Welcome! This is a mock project I'm working on in order to practice git.
